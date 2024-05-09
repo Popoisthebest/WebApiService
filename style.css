@@ -46,6 +46,7 @@ button {
     display: block;
     background-color: #fab22e;
     border: none;
+    border-radius: 5px;
     font-size: 18px;
     color: #171721;
     font-weight: 600;
